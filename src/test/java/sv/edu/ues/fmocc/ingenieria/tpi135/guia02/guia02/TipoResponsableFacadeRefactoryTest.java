@@ -1,5 +1,6 @@
 package sv.edu.ues.fmocc.ingenieria.tpi135.guia02.guia02;
 
+import java.util.List;
 import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;
 import javax.persistence.Persistence;
